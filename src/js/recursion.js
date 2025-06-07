@@ -136,6 +136,15 @@ function getProgress(data) {
     }
 }
 
-const result = getProgress(students);
+function factorial(n) {
+    // if (!Number.isInteger(n) || typeof n !== 'number') return 'дробное число не подходит';
+    // return n > 0 ? n * factorial(n - 1) : 1;
 
-console.log((result[0] / result[1]).toFixed(2));
+    return !Number.isInteger(n) || typeof n !== 'number'
+        ? 'дробное число не подходит'
+        : n > 0
+        ? n * factorial(n - 1)
+        : 1;
+}
+
+console.log(factorial(5));
