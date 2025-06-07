@@ -6,3 +6,4 @@ import '/src/sass/style.scss';
 //import '/src/js/dom.js';
 //import '/src/js/recursion.js';
 //import '/src/js/mobile.js';
+//import '/src/js/async.js';
