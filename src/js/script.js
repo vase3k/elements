@@ -7,4 +7,5 @@ import '/src/sass/style.scss';
 //import '/src/js/recursion.js';
 //import '/src/js/mobile.js';
 //import '/src/js/async.js';
-import '/src/js/null.js';
+//import '/src/js/null.js';
+import '/src/js/symbol.js';
