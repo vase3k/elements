@@ -11,10 +11,11 @@ export default defineConfig({
         rollupOptions: {
             input: {
                 index: resolve(__dirname, 'index.html'),
-                event: resolve(__dirname, 'event.html'),
-                dom: resolve(__dirname, 'dom.html'),
-                mobile: resolve(__dirname, 'mobile.html'),
-                async: resolve(__dirname, 'async.html'),
+                event: 'event.html',
+                dom: 'dom.html',
+                mobile: 'mobile.html',
+                async: 'async.html',
+                null: 'null.html',
             },
         },
     },
