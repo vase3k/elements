@@ -9,4 +9,6 @@ import '/src/sass/style.scss';
 //import '/src/js/async.js';
 //import '/src/js/null.js';
 //import '/src/js/symbol.js';
-import '/src/js/flag.js';
+//import '/src/js/flag.js';
+//import '/src/js/map.js';
+import '/src/js/set.js';
