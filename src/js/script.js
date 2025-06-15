@@ -12,4 +12,5 @@ import '/src/sass/style.scss';
 //import '/src/js/flag.js';
 //import '/src/js/map.js';
 //import '/src/js/set.js';
-import '/src/js/practice.js';
+//import '/src/js/practice.js';
+import '/src/js/classlist.js';

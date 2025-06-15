@@ -16,6 +16,7 @@ export default defineConfig({
                 mobile: 'mobile.html',
                 async: 'async.html',
                 null: 'null.html',
+                classlist: 'classlist.html',
             },
         },
     },
